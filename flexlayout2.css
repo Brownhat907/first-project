@@ -2,32 +2,7 @@
     box-sizing: border-box;
 }
 .container {
-    border: 4px solid lightblue;
-    padding: 24px 24px 0 24px;
-    display: flex;
-    justify-content: space-between;
-}
-
-.box {
-    border: 2px solid red;
-    height: 100%;
-    margin-bottom: 24px;
-}
-.box-small {
-    border: 3px solid green;
-    height: 50px;
-    width: 50%;
-    margin-bottom: 24px;
-}
-.box-wrapper {
-    border: 4px solid rgb(255, 255, 255);
-    display: flex;
-    flex-direction: column;
-   width: 50%;
-}
-.box-large {
-    border: 2px solid blue;
-    height: 100px;
-    width: 50%;
-    margin: 10px;
+    border: 4px solid   lightgray;
+    padding:    24px    24px 0 24px;
+    
 }
