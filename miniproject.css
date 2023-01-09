@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    font: solid red;
+}
+.home-container {
+    border: 2px solid red;
+height: 40px;
+width: 40px;
+padding: 24px 24px 24px 24px;
+}
+.home-element1 {
+    border: 2px solid lightcoral;
+    height: 40px;
+    width: 40px;
+    padding: 24px 24px 24px 24px;
+}
+.about-container {
+    border: 2px solid blue;
+    height: 40px;
+    width: 40px;
+    padding: 24px 24px 24px 24px;
+}
+.about-element1 {
+    border: 2px solid lightblue;
+    height: 40px;
+    width: 40px;
+    padding: 24px 24px 24px 24px;
+}
+.info-container {
+    border: 2px solid green;
+    height: 40px;
+    width: 40px;
+    padding: 24px 24px 24px 24px;
+}
+.info-element1 {
+    border: 2px solid greenyellow;
+    height: 40px;
+    width: 40px;
+    padding: 24px 24px 24px 24px;
+}
